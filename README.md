@@ -1,2 +1,2 @@
 # Maze-Generator
-this is a maze generator
+this is my first c++ program and is a basic maze generator
